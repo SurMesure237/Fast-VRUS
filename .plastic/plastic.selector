@@ -1,0 +1,4 @@
+repository "Fast&VRus@Surmesure@cloud"
+  path "/"
+    br "/main"
+    co "/main"
